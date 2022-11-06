@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Axouuu
-- 👀 I’m interested in new technologies and music
-- 🌱 I’m currently learning HTML5, CSS3
-- 📫 Reach me at heyaxouuu@gmail.com
+Juste du code bg
